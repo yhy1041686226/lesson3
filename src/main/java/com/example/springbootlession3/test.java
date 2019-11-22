@@ -2,6 +2,6 @@ package com.example.springbootlession3;
 
 public class test {
     void func(){
-        System.out.println("hello==test==develop");
+        System.out.println("hello==test==hotfix");
     }
 }
